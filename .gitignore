@@ -1,0 +1,14 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+__pycache__
+
+# Mac:
+.DS_Store
